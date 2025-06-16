@@ -25,26 +25,7 @@ A simple and effective student tracking system built using **Streamlit** and **M
 - **Backend:** Python
 - **Database:** MongoDB (via PyMongo)
 - **Deployment:** Streamlit Cloud
-
-##  Folder Structure
-
-student-tracking/
-│
-├── admin_pages/
-│ ├── dashboard.py # Admin dashboard logic
-│ └── college_view.py # Detailed college-wise view
-│
-├── student_pages/
-│ ├── attendance.py # Attendance interface
-│ ├── session.py # Session logging
-│ └── feedback.py # Feedback form
-│
-├── utils.py # Utility functions (e.g., current_date)
-├── auth.py # Register/Login functionality
-├── database.py # MongoDB connection
-├── app.py # Main Streamlit app
-└── README.md # This file
-
+- 
 ##  How to Run Locally
 ### 1. Clone the Repository
 git clone https://github.com/sigmadosase/student-tracking.git
